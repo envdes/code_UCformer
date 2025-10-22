@@ -1,0 +1,27 @@
+ucformer:
+  config:
+    q_dim: 17
+    kv_dim: 13
+    heads: 3
+    dim_head: 128
+    d_model: heads * dim_head
+    dropout: 0.1
+    ffn_hidden: 2048
+    num_layers: 4
+    output_dim: 3
+    lr: 0.00001
+    bs: 64
+    num_epochs: 50
+
+transformer:
+  config:
+    output_dim: 3
+    input_dim: 30
+    num_epochs: 100
+    bs: 32
+    d_model: 128
+    heads: 4
+    num_layers: 8
+    lr: 0.00001
+    ffn_hidden: 2048
+    dropout: 0.1352

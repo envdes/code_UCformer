@@ -1,4 +1,14 @@
-The repository is hosted anonymously on GitHub and will be made public upon paper acceptance.
+#### To facilitate code usage and demo access, this repository is under continuous development.
+
+## Introduction
+
+This repository is a supplement to the paper **"Learning Urban Climate Dynamics via Physics-Guided Urban Surface–Atmosphere Interactions"** accepted to NeurIPS 2025 main conference.
+
+The objectives of this project are:
+
+- Leverage data-dirven methods  to represent the interaction between urban surface and the atmopheric forcing.
+- Incorpate **physical and domian knowledge** to models for enchanced modelling.
+- Investigate the **generalization** and **multi-task** capabilities of physics-guide models and their potential as urban climate **foundation models**.
 
 ### Description
 

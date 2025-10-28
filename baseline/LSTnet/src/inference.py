@@ -6,7 +6,7 @@ from dataloader import get_data
 import time
 import os, sys
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..')))
-save_path = os.path.join(os.path.dirname(__file__), '..', '..', '..', 'checkpoints', 'lstnet_tuned_v3_dbcheck.pth')
+save_path = os.path.join(os.path.dirname(__file__), '..', '..', '..', 'checkpoints', 'LSTNet.pth')
 from utils.tools import set_seed, split_and_rename, calculate_r2, calculate_rmse, cal_mess
 import argparse
 import pandas as pd

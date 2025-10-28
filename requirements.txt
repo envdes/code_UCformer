@@ -1,0 +1,6 @@
+numpy==2.3.4
+Optim==0.1.0
+pandas==2.3.3
+torch==2.7.1+cu128
+torchvision==0.22.1+cu128
+tqdm==4.66.2

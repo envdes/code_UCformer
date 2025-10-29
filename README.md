@@ -66,7 +66,7 @@ Note: download the `ucformer_dataset/processed/` to `/your/data/path/` and speci
 
 ### **Inference:**
 
-Download [Model checkpoints](https://huggingface.co/XiGuaaa/ucformer) to the `.\code_UCformer\checkpoints` directory.
+Download [Model checkpoints](https://huggingface.co/XiGuaaa/ucformer) to the `./code_UCformer/checkpoints/` directory.
 
 > **UCformer**
 

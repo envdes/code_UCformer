@@ -138,7 +138,7 @@ python ./code_UCformer/baseline/Informer/generalization.py --datapath /your/data
 @inproceedings{xia2025ucformer,
     title={Learning Urban Climate Dynamics via Physics-Guided Urban Surface\–Atmosphere Interactions},
     author={Jiyang_Xia and Fenghua Ling and Zhenhui Jessie Li and Junjie Yu and Hongliang Zhang and David Topping and LEI BAI and Zhonghua Zhengu},
-    booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+    booktitle={The Thirty-Ninth Annual Conference on Neural Information Processing Systems},
     year={2025},
     url={https://openreview.net/forum?id=i9BjNoVjub&nesting=2&sort=date-desc}
 }
